@@ -806,3 +806,19 @@ Colors: The standard iPhone 15 is available in a variety of colors, including Bl
     Connectivity: Supports GPS, cellular (optional), Wi-Fi, Bluetooth 5.3, and features a second-generation Ultra Wideband chip for Precision Finding of the iPhone 15 family.
     Battery life: Offers up to 18 hours of typical use or 36 hours in Low Power Mode on a single charge."
   image: "images/series_9_midnight__52347.jpg"
+
+- id: 51       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Samsung Galaxy S25, 128GB, 5G,Dual Sim,Unlocked, New, Sealed"
+  category: "Phone"
+  price: 789.95
+  description: "Icyblue,Navy,Silver Shadow,Mint. Design: The phone has a compact, slim, and lightweight design. It is made with an Armor Aluminum frame and Corning Gorilla Glass Victus 2, providing durability and water resistance.
+Display: It features a 6.2-inch FHD+ Dynamic AMOLED 2X display with a variable 1–120Hz refresh rate and a peak brightness of 2,600 nits. This provides a smooth, vivid, and highly visible viewing experience.
+Security: For security, it uses an under-display ultrasonic fingerprint reader and facial recognition.
+Audio: The S25
+includes stereo speakers and Dolby Atmos support. 
+Camera
+The triple-camera system on the rear includes: 
+50MP main camera with optical image stabilization (OIS)
+    12MP ultrawide camera
+    10MP telephoto lens with 3x optical zoom    "
+  image: "URL OR PATH TO PRODUCT IMAGE HERE"
