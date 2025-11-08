@@ -1,6 +1,6 @@
 title: 50StatesWirelessUSA | Shop Smartphones,Tablets,Smart watches online
 url: "https://50stateswireless-jpg.github.io"
-baseurl: "50stateswirelessusa"
+baseurl: "/50stateswirelessusa"
 
 defaults:
   - scope:
