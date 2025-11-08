@@ -60,6 +60,23 @@ pluralizeCategory: (category) => {
   };
   return exceptions[category] || category + 's';
 },
+toggleDescription: () => {
+  const truncated = document.getElementById('truncated-description');
+  const full = document.getElementById('full-description');
+  const button = document.getElementById('toggle-description');
+
+  if (full.classList.contains('hidden')) {
+    // Show full description
+    full.classList.remove('hidden');
+    truncated.classList.add('hidden');
+    button.textContent = 'Less';
+  } else {
+    // Hide full → show truncated
+    full.classList.add('hidden');
+    truncated.classList.remove('hidden');
+    button.textContent = 'More';
+  }
+},
 getProductDisplayName(productId) {
   for (const product of this.rawProducts) {
     if (product.id === productId) return product.name;
@@ -184,7 +201,7 @@ html += `<h2 class="text-3xl font-bold text-gray-800 mb-6">${app.pluralizeCatego
         html += `
           <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition duration-300 overflow-hidden flex flex-col">
             <div class="h-48 bg-gray-100 flex items-center justify-center p-4">
-              <img src="${product.image}" onerror="this.onerror=null;this.src='https://placehold.co/400x300/E5E7EB/4B5563?text=50StatesWirelessUSA';" alt="${product.name}" class="max-h-full max-w-full object-contain rounded-lg">
+              <img src="${product.image}" onerror="this.onerror=null;this.src='https://placehold.co/400x300/E5E7EB/4B5563?text=NewRock';" alt="${product.name}" class="max-h-full max-w-full object-contain rounded-lg">
             </div>
             <div class="p-5 flex-grow flex flex-col">
               <span class="text-xs font-semibold uppercase text-gray-500 mb-1">${product.category}</span>
@@ -262,34 +279,66 @@ html += `{% include affiliate-banner.html %}`;
 
     }
 
-    container.innerHTML = `
-      <div class="bg-white rounded-xl shadow-2xl p-6 md:p-10">
-        <div class="flex flex-col lg:flex-row gap-8">
-          <div class="lg:w-1/2 bg-gray-50 rounded-lg p-6 flex items-center justify-center">
-            <img id="product-image" src="${selectedVariant.image}" onerror="this.onerror=null;this.src='https://placehold.co/600x450/E5E7EB/4B5563?text=50StatesWirelessUSA+Product';" alt="${baseProduct.name}" class="w-full h-auto object-contain rounded-lg max-h-96">
-          </div>
-          <div class="lg:w-1/2">
-            <span class="text-sm font-semibold uppercase text-gray-500">${baseProduct.category}</span>
-            <h1 class="text-4xl font-extrabold text-gray-900 mt-2 mb-2">${baseProduct.name}</h1>
-            <p id="product-price" class="text-3xl font-extrabold nrw-text-red mb-4">
-              ${app.formatCurrency(selectedVariant.price)}${['Plan', 'Internet Service', 'WiFi'].includes(baseProduct.category) ? '<span class="text-lg text-gray-500 font-normal">/month</span>' : ''}
-            </p>
-            ${swatchesHtml}
-            <h3 class="text-xl font-semibold text-gray-800 mb-2">Description</h3>
-            <p class="text-gray-600 mb-8 leading-relaxed">
-              ${baseProduct.description}
-              <br><br>The ${baseProduct.name}, like our other offerings comes with the consistant quality our customers have come to expect, another great product from 50StatesWirelessUSA.
-            </p>
-            <div class="flex items-center space-x-4">
-              <button id="add-to-cart-btn" onclick="app.addToCart(${selectedVariant.id})" class="nrw-btn-blue text-white px-8 py-3 text-lg font-semibold rounded-xl shadow-md hover:shadow-lg transition duration-150 flex items-center">
-                <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l-1 12H6L5 9z"></path></svg>Add to Cart
-              </button>
-              <button onclick="app.setView('home')" class="px-6 py-3 border border-gray-300 text-gray-700 text-lg font-semibold rounded-xl hover:bg-gray-100 transition duration-150">Back to Shopping</button>
-            </div>
-          </div>
+container.innerHTML = `
+  <div class="bg-white rounded-xl shadow-2xl p-6 md:p-10">
+    <div class="flex flex-col lg:flex-row gap-8">
+      <div class="lg:w-1/2 bg-gray-50 rounded-lg p-6 flex items-center justify-center">
+        <img 
+          src="${selectedVariant.image}" 
+          onerror="this.onerror=null;this.src='https://placehold.co/600x450/E5E7EB/4B5563?text=NewRock+Product';" 
+          alt="${baseProduct.name}" 
+          class="w-full h-auto object-contain rounded-lg max-h-96">
+      </div>
+
+      <div class="lg:w-1/2">
+        <span class="text-sm font-semibold uppercase text-gray-500">${baseProduct.category}</span>
+        <h1 class="text-4xl font-extrabold text-gray-900 mt-2 mb-2">${baseProduct.name}</h1>
+        
+        <p id="product-price" class="text-3xl font-extrabold nrw-text-red mb-4">
+          ${app.formatCurrency(selectedVariant.price)}${['Plan', 'Internet Service', 'WiFi'].includes(baseProduct.category) ? '<span class="text-lg text-gray-500 font-normal">/month</span>' : ''}
+        </p>
+
+        ${swatchesHtml}
+
+        <div class="space-y-2">
+          <!-- Full Description (Initially Hidden) -->
+          <p id="full-description" class="hidden text-gray-600 leading-relaxed">
+            ${baseProduct.description}
+            <br><br>The ${baseProduct.name}, like our other offerings comes with the consistent quality our customers have come to expect, another great product from NewRock Wireless.
+          </p>
+
+          <!-- Truncated View -->
+          <p 
+            id="truncated-description" 
+            class="text-gray-600 leading-relaxed mb-2"
+            style="-webkit-line-clamp: 10; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; height: auto;">
+            ${baseProduct.description}
+            <br><br>The ${baseProduct.name}, like our other offerings comes with the consistent quality our customers have come to expect, another great product from NewRock Wireless.
+          </p>
+
+          <!-- "More" Button -->
+          <button 
+            id="toggle-description" 
+            onclick="app.toggleDescription()"
+            class="ml-auto text-sm font-medium text-nrw-red hover:text-red-700 focus:outline-none"
+            style="float: right; margin-top: -0.5rem;">
+            More
+          </button>
+        </div>
+
+        <div class="mt-8 flex items-center space-x-4">
+          <button id="add-to-cart-btn" onclick="app.addToCart(${selectedVariant.id})" class="nrw-btn-blue text-white px-8 py-3 text-lg font-semibold rounded-xl shadow-md hover:shadow-lg transition duration-150 flex items-center">
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l-1 12H6L5 9z"></path></svg>
+            Add to Cart
+          </button>
+          <button onclick="app.setView('home')" class="px-6 py-3 border border-gray-300 text-gray-700 text-lg font-semibold rounded-xl hover:bg-gray-100 transition duration-150">
+            Back to Shopping
+          </button>
         </div>
       </div>
-    `;
+    </div>
+  </div>
+`;
   },
 
 renderCart: () => {
@@ -594,13 +643,13 @@ window.onload = () => {
 <template id="privacy-policy-content">
   <h1 class="text-2xl font-bold mb-4">Privacy Policy</h1>
   <p>Last updated: October 2025</p>
-  <p>At 50StatesWirelessUSA, we respect your privacy. This Privacy Policy explains how we collect, use, and protect your information when you visit our website or make a purchase...</p>
+  <p>At NewRock Wireless, we respect your privacy. This Privacy Policy explains how we collect, use, and protect your information when you visit our website or make a purchase...</p>
   <!-- Add your full policy here as HTML -->
 </template>
 
 <template id="terms-of-service-content">
   <h1 class="text-2xl font-bold mb-4">Terms of Service</h1>
-  <p>By accessing or using 50StatesWirelessUSA, you agree to be bound by the following terms...</p>
+  <p>By accessing or using NewRock Wireless, you agree to be bound by the following terms...</p>
   <!-- Add your full ToS here -->
 </template>
 
