@@ -480,11 +480,9 @@ renderCart: () => {
               <span class="text-xl font-extrabold nrw-text-red">${app.formatCurrency(total)}</span>
             </div>
           </div>
-          <button 
-            onclick="app.handleCheckout()"
-            class="w-full mt-6 nrw-btn-blue text-white text-lg font-semibold py-3 rounded-xl shadow-lg hover:bg-blue-600 transition duration-150">
-            Proceed to Checkout
-          </button>
+        <div class="mt-111 p-111 nrw-bg-red rounded-xl shadow-xl text-center text-green">
+          <p class="text-lg font-light">Checkout With PayPal, Debit or Credit</p>
+        </div>
 <div class="mt-4">
   <div id="paypal-button-container"></div>
 </div>
