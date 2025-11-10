@@ -345,7 +345,9 @@ renderCart: () => {
   const container = document.getElementById('app-container');
   
   if (app.cart.length === 0) {
+
     container.innerHTML = `
+
       <div class="max-w-3xl mx-auto bg-white p-8 rounded-xl shadow-2xl text-center">
         <h1 class="text-4xl font-bold nrw-text-red mb-4">Your Shopping Cart</h1>
         <div class="text-gray-500 mb-8">
@@ -483,6 +485,9 @@ renderCart: () => {
             class="w-full mt-6 nrw-btn-blue text-white text-lg font-semibold py-3 rounded-xl shadow-lg hover:bg-blue-600 transition duration-150">
             Proceed to Checkout
           </button>
+<div class="mt-4">
+  <div id="paypal-button-container"></div>
+</div>
         </div>
         <div class="mt-8 p-4 nrw-bg-red rounded-xl shadow-xl text-center text-green">
           <p class="text-lg font-light">Free Shipping included</p>
@@ -491,6 +496,90 @@ renderCart: () => {
       </div>
     </div>
   `;
+// --- NEW: Initialize PayPal Button AFTER container.innerHTML is set ---
+if (typeof paypal !== 'undefined') { // Check if SDK loaded
+  const paypalContainer = document.getElementById('paypal-button-container');
+  if (paypalContainer) { // Check if container exists
+    // Calculate cart details again (or reuse existing variables from renderCart)
+    // ... (reuse subtotal, tax, total, items calculation from renderCart) ...
+    const subtotal = app.cart.reduce((sum, item) => {
+        const product = findProductById(item.id); // Assuming findProductById is in scope or defined here
+        return sum + (product ? product.price * item.quantity : 0);
+    }, 0);
+    const taxRate = 0.08875;
+    const tax = subtotal * taxRate;
+    const total = subtotal + tax;
+
+    const items = app.cart.map(item => {
+        const product = findProductById(item.id);
+        if (!product) return null;
+        return {
+        name: product.name,
+        unit_amount: {
+            currency_code: 'USD',
+            value: product.price.toFixed(2)
+        },
+        quantity: item.quantity,
+        category: product.category === 'Digital' ? 'DIGITAL_GOODS' : 'PHYSICAL_GOODS'
+        };
+    }).filter(item => item !== null);
+
+    // Render the PayPal button
+    paypal.Buttons({
+        style: {
+        layout: 'vertical',
+        color: 'gold',
+        shape: 'rect',
+        label: 'paypal',
+        tagline: false
+        },
+        createOrder: function(data, actions) {
+        return actions.order.create({
+            intent: 'CAPTURE',
+            purchase_units: [{
+            description: "NewRock Wireless Order",
+            amount: {
+                currency_code: 'USD',
+                value: total.toFixed(2), // Use the calculated total
+                breakdown: {
+                item_total: {
+                    currency_code: 'USD',
+                    value: subtotal.toFixed(2)
+                },
+                tax_total: {
+                    currency_code: 'USD',
+                    value: tax.toFixed(2)
+                }
+                }
+            },
+            items: items // Use the calculated items
+            }]
+        });
+        },
+        onApprove: function(data, actions) {
+        return actions.order.capture().then(function(details) {
+            console.log('Transaction completed by ' + details.payer.name.given_name);
+            app.cart = []; // Clear the cart
+            app.updateCartCount();
+            app.setView('home');
+            alert('Thank you for your purchase, ' + details.payer.name.given_name + '!');
+        });
+        },
+        onCancel: function(data) {
+        console.log('PayPal payment cancelled');
+        },
+        onError: function(err) {
+        console.error('PayPal error:', err);
+        alert('An error occurred during the PayPal payment process.');
+        }
+    }).render('#paypal-button-container');
+    } else {
+    console.error('PayPal button container not found after renderCart.');
+    }
+} else {
+    console.error('PayPal SDK not loaded when renderCart was called.');
+}
+// --- END NEW: PayPal initialization ---
 },
 
   // --- Variant Handling ---
@@ -631,6 +720,7 @@ deleteFromCart: (productId) => {
 window.onload = () => {
   app.render();
 };
+
 </script>
 <!-- Policy Modal / Inline Pages -->
 <div id="policy-overlay" class="fixed top-[70px] left-0 right-0 bottom-0 bg-white p-6 overflow-y-auto hidden z-50">
