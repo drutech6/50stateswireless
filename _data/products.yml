@@ -237,7 +237,7 @@ Active Noise Cancelling with Smart Ambient: Hear more of what you want, less of 
 
 - id: 19       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Apple Watch Ultra 3, 49mm, New , Sealed"
-  category: "Smart Watche"
+  category: "Smart Watches"
   price: 899.95
   description: "Black. The Apple Watch Ultra 3 
 builds on its predecessor with a few notable improvements, including enhanced connectivity and a better display. Key features include: 
@@ -775,7 +775,7 @@ Colors: The standard iPhone 15 is available in a variety of colors, including Bl
 
 - id: 49       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Apple Watch Series 10 , 42mm , New , Sealed "
-  category: "Smart Watche"
+  category: "Smart Watches"
   price: 499.95
   description: "Black. Key features
 
@@ -794,7 +794,7 @@ Colors: The standard iPhone 15 is available in a variety of colors, including Bl
 
 - id: 50      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Apple Watch Series 9, 41mm , New , Sealed "
-  category: "Smart Watche"
+  category: "Smart Watches"
   price: 459.95
   description: "Midnight , Silver. Key features and specs
 
