@@ -866,24 +866,24 @@ includes a powerful quad-camera system on the rear, which includes:
   image: "images/s25_ultra_green__47114.jpg"
 
 - id: 54
-  name: "Samsung Galaxy Watch 8"
+  name: "Samsung Galaxy Watch 8, New, Sealed"
   category: "Smart Watches"
-  price: 230.95
+  price: 379.95
   description: "Galaxy Watch8 is thinner, lighter and brighter than ever. Reimagined with a new cushion shape and Dynamic Lug bands, the sleek case hugs your wrist for health readings.1 Longer battery life keeps new fitness tracking features locked in.2 Plus, enhanced performance powers a refreshed
 One UI 8 Watch experience."
   image: "images/galaxy_watch_8_black__63061.jpg"
 
 - id: 55
-  name: "Apple Watch Series 11"
+  name: "Apple Watch Series 11, New, Sealed"
   category: "Smart Watches"
   price: 519.95
   description: "Apple Watch Series 11, 46MM , Aluminum, Cellular+ GPS, New ,Sealed color available is Black"
   image: "shopping-1.webp"
 
 - id: 56       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
-  name: "Samsung Watch 6 Classic"
+  name: "Samsung Watch 6 Classic, New, Sealed"
   category: "Smart Watches"
-  price: 79.95
+  price: 329.85
   description: "
 
 Samsung Watch 6 Classic
