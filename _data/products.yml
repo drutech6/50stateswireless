@@ -869,7 +869,15 @@ includes a powerful quad-camera system on the rear, which includes:
   name: "Samsung Galaxy Watch 8, New, Sealed"
   category: "Smart Watches"
   price: 379.95
-  description: "GGG"
+  description: "
+
+Samsung Galaxy Watch 8
+
+Features the new Exynos W1000 processor, Wear OS 6 with One UI 8 Watch, and enhanced AI capabilities powered by Google's Gemini. It offers improved battery management, a high-brightness Super AMOLED display with Sapphire Crystal, and health tracking features including enhanced sleep tracking and an advanced running coach. Key upgrades from the previous generation include a more responsive user interface, a new Multi-Info Tile system for quick data access, and a user-friendly, detachable strap design
+GPS
+New Sealed
+Graphite, silver
+"
   image: "images/galaxy_watch_8_black__63061.jpg"
 
 - id: 55
