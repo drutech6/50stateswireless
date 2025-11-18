@@ -885,7 +885,7 @@ Graphite, silver
   category: "Smart Watches"
   price: 519.95
   description: "Apple Watch Series 11, 46MM , Aluminum, Cellular+ GPS, New ,Sealed color available is Black"
-  image: "shopping-1.webp"
+  image: "images/shopping-1.webp"
 
 - id: 56       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
   name: "Samsung Watch 6 Classic, New, Sealed"
