@@ -1087,3 +1087,20 @@ Apple Watch Series 4 (GPS + Cellular) requires an iPhone 6 or later with iOS 12 
 
 Features are subject to change. Some features, applications, and services may not be available in all regions or all languages. "
   image: "images/series_4_40mm__32998.jpg"
+
+- id: 58
+  name: "Samsung Galaxy Watch 6 classic, 47MM , WiFi+ GPS , New, sealed"
+  category: "Smart Watches"
+  description: "Available colors care Silver and Black. Samsung Watch 6 Classic 43MM & 47MM Wifi plus GPS New Sealed Bluetooth Sapphire Crystal Display Includes health features A dual-core 1.4GHz processor 2GB Ram 16GB Internal Storage Water and dust resistant"
+  variants:
+    - id: 309
+      color: "Silver"
+      price: 329.95
+    # minStock: true/false
+      image: "images/samsung_watch_6__98809.jpg"
+    - id: 310
+      color: "Black"
+      price: 329.95
+    # minStock: true/false
+      image: "images/samsung_watch_6_black__78313.jpg"
+
