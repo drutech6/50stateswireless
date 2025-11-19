@@ -910,3 +910,180 @@ Water and dust resistant
 UPC: 8806095054292
 Silver color"
   image: "images/samsung_watch_6__98809.jpg"  
+
+- id: 57      #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
+  name: "Apple Watch Series 4"
+  category: "Smart Watches"
+  price: 259.95
+  description: "Technical Specifications
+Finishes
+
+GPS + Cellular
+
+    Stainless Steel
+
+        Silver
+
+        Space Black (DLC)
+
+        Gold (PVD)
+
+    Aluminum
+
+        Silver
+
+        Space Gray
+
+        Gold
+
+GPS
+
+    Aluminum
+
+        Silver
+
+        Space Gray
+
+        Gold
+
+Apple Watch Nike+ available in silver and space gray aluminum.
+
+Apple Watch Hermès available in polished stainless steel.
+Features
+
+    GPS, GLONASS, Galileo, and QZSS
+
+    Barometric altimeter
+
+    Water resistant
+
+        50 meters1
+
+    Electrical heart sensor
+
+    Optical heart sensor
+
+    Improved accelerometer
+
+        up to 32 g-forces
+
+    Improved gyroscope
+
+    Ambient light sensor
+
+    Speaker
+
+        50 percent louder
+
+    Microphone
+
+    Apple Pay
+
+    GymKit
+
+    Capacity 16GB
+
+    Ceramic and sapphire crystal back
+
+Display
+
+    44mm
+
+        368 by 448 pixels
+
+        977 sq mm display area
+
+    40mm
+
+        324 by 394 pixels
+
+        759 sq mm display area
+
+    LTPO OLED Retina display with Force Touch
+
+        1000 nits brightness
+
+Chip
+
+    S4 with 64-bit dual-core processor
+
+        Up to 2x faster processor
+
+    W3
+
+        Apple wireless chip
+
+Connectivity
+
+    LTE and UMTS2
+
+        GPS + Cellular models
+
+    Wi-Fi
+
+        802.11b/g/n 2.4GHz
+
+    Bluetooth 5.0
+
+Power
+
+    Built-in rechargeable lithium-ion battery
+
+        Up to 18 hours3
+
+    Magnetic charging cable
+
+    USB power adapter
+
+Case Size
+
+Stainless Steel - 40mm
+
+    Height: 40mm
+
+    Width: 34mm
+
+    Depth: 10.7mm
+
+    Case Weight: 39.8g
+
+Stainless Steel - 44mm
+
+    Height: 44mm
+
+    Width: 38mm
+
+    Depth: 10.7mm
+
+    Case Weight: 47.9g
+
+Aluminum - 40mm
+
+    Height: 40mm
+
+    Width: 34mm
+
+    Depth: 10.7mm
+
+    Case Weight: 30.1g
+
+Aluminum - 44mm
+
+    Height: 44mm
+
+    Width: 38mm
+
+    Depth: 10.7mm
+
+    Case Weight: 36.7g
+
+    Apple Watch Series 3 and Series 4 have a water resistance rating of 50 meters under ISO standard 22810:2010. This means that they may be used for shallow-water activities like swimming in a pool or ocean. However, they should not be used for scuba diving, waterskiing, or other activities involving high-velocity water or submersion below shallow depth.
+
+    Wireless service plan required for cellular service. Apple Watch and iPhone service provider must be the same. Not available with all service providers. Not all service providers support enterprise accounts or prepaid plans; check with your employer and service provider. Some legacy plans may not be compatible. Roaming is not available. Contact your service provider for more details.
+
+    Apple Watch All-Day Battery Life testing was conducted by Apple in August 2018 using preproduction Apple Watch Series 4 (GPS) and Apple Watch Series 4 (GPS + Cellular), each paired with an iPhone; all devices were tested with prerelease software. Battery life varies by use, cellular coverage, configuration, and many other factors; actual results will vary. See www.apple.com/batteries and www.apple.com/watch/battery.html for more information.
+
+Apple Watch Series 4 (GPS + Cellular) requires an iPhone 6 or later with iOS 12 or later. Apple Watch Series 4 (GPS) requires an iPhone 5s or later with iOS 12 or later.
+
+Features are subject to change. Some features, applications, and services may not be available in all regions or all languages. "
+  image: "images/series_4_40mm__32998.jpg"
