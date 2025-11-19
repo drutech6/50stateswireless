@@ -1377,12 +1377,12 @@ Apple Watch Ultra, Apple Watch Series 8, and Apple Watch SE require an iPhone 8 
 
 Features are subject to change. Some features, applications, and services may not be available in all regions or all languages."
   variants:
-    - id: 301
+    - id: 314
       color: "Ocean White"
       price: 799.95
     # minStock: true/false
       image: "images/apple-watch-ultra_49mm_WiFi_GPS_Ocean_White.jpg"
-    - id: 302
+    - id: 315
       color: "Yellow Beige"
       price: 799.95
     # minStock: true/false
