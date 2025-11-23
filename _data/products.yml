@@ -1423,33 +1423,28 @@ Main functions: step counting, distance, calorie, heart rate/blood pressure/bloo
   image: "images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-blue-t900-pro-max-blue-plusbuyer.jpg"
 
 - id: 66
-  name: "Smart Watch T900 Pro Max , New ,8 Sealed (Black , Pink, or White)"
+  name: "High Performance Smart Watch 475BKGR"
   category: "Smart Watches"
-  description: "    CPU: HS6620+BK3266
-    FLASH memory: 512KB+16M
-    Display: 1.71 inch COB capacitive multi-touch screen, 240x280 resolution
-    Battery: 200mAh, 2Pin thimble charging
-    Bluetooth 4.2+5.0 dual mode
-    Support motor, heart rate sensor, gravity sensor
-    Support APP: heyfine
-    System requirements: Android5.0 or above, iOS9.0 or above
-    APP language: Support English, Simplified Chinese, Traditional Chinese, Dutch, Russian, French, German, Portuguese, Spanish, Turkish, Japanese, Polish, Arabic, Malaysian, Thai, Czech, Slovak
-    Watch menu language: English, Arabic, French, Spanish, Portuguese, Russian, German, Dutch, Turkish, Malay, Polish, Czech, Slovak
-    Main functions: step counting, distance, calorie, heart rate/blood pressure/blood oxygen monitoring, Bluetooth calling, Bluetooth music, temperature measurement, sleep monitoring, call reminder, SMS reminder, social APP message reminder (WeChat, QQ, Facebook, Twitter, Line, Whatsapp, Instagram), alarm clock reminder, sedentary reminder, more exercise, turning wrist to bright screen, looking for wristband, looking for mobile phone, remote photo, reject call, do not disturb mode, custom dial, etc.
-    Appearance material: metal body + IML bottom case, silicone band"
+  description: "
+Slide Innovation High Performance Smart Watch 475BKGR
+
+New, Black
+
+Robust design with a water-resistant aluminum frame.
+Features:
+Sweat-resistant watch straps.
+Large 2.01" HD high-definition touchscreen display
+Send and receive calls and text messages.
+Over 50 sports modes and motion tracking.
+Wireless magnetic charge
+Powerful internal battery lasts up to 2 days.
+Push notifications for Facebook, email, and SMS.
+2.5" screen. - Various meters, including pedometer and pace tracker.
+MTK processor.
+Compatible with Android and iOS."
   variants:
     - id: 318
       color: "Black"
       price: 109.95
     # minStock: true/false
-      image: "images/t900_pro_max_black__29212.jpg"
-    - id: 319
-      color: "White"
-      price: 109.95
-    # minStock: true/false
-      image: "images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-white-t900-pro-max-white-plusbuyer.jpg"
-    - id: 320
-      color: "Pink"
-      price: 109.95  # maybe premium color costs more
-    # minStock: true/false
-      image: "images/t900-pro-max-171-inch-lcd-screen-smart-watch-support-bluetooth-call-multiple-sports-modes-pink-t900-pro-max-pink-plusbuyer.jpg"
+      image: "images/smart_w_475__70274.jpg"
