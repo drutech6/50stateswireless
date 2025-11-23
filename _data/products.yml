@@ -1476,3 +1476,36 @@ According to GSMArena and other product specification sites, here are the key te
       price: 151.95
     # minStock: true/false
       image: "images/ZTE Blade L8_Overseas_32GB_GSM_New_Sealed.JPG"
+
+- id: 68
+  name: "Xiaomi, Redmi A2, 32GB, Unlocked, New, Sealed.jpg"
+  category: "Phone"
+  description: "The smartphone features a MediaTek Helio G36 processor with speeds of up to 2.2GHz.
+
+        It offers storage options of 2GB RAM + 32GB internal storage or 3GB RAM + 32GB internal storage, supporting expandable storage up to 1TB.
+
+        Dimensions: Height - 164.9mm, Width - 76.75mm, Thickness - 9.09mm, Weight - 192g (Actual results may vary).
+
+        Equipped with a 6.52-inch HD+ Dot Drop display with a resolution of 1600 x 720 pixels and a 20:9 aspect ratio. It also supports Night Light.
+
+        The rear camera setup includes an 8MP main camera with auxiliary lens for various photography modes and video recording at 1080p and 720p.
+
+        For selfies and video calls, it features a 5MP front camera with video recording at 1080p and 720p.
+
+        The device packs a 5000mAh battery with 10W fast charging and comes with a 10W in-box charger via Micro USB.
+
+        It supports dual SIM cards and microSD expansion. Network bands include 2G, 3G, and 4G LTE.
+
+        Connectivity features include 2.4GHz Wi-Fi, FM radio (with headphones), and Bluetooth 5.0.
+
+        Navigation and positioning options include GPS, Glonass, BDS, and Galileo.
+
+        The smartphone includes a 3.5mm headphone jack and an accelerometer sensor.
+        It runs on the Android 12 (Go Edition) operating system.
+        Package contents include the Redmi A2, adapter, USB cable, SIM eject tool, warranty card, and user guide."
+  variants:
+    - id: 320
+      color: "Black"
+      price: 180.45
+    # minStock: true/false
+      image: "images/Xiaomi_Redmi_A2_32GB_Unlocked_New_Sealed.jpg"
