@@ -1445,3 +1445,34 @@ Compatible with Android and iOS."
       price: 109.95
     # minStock: true/false
       image: "images/smart_w_475__70274.jpg"
+
+- id: 67
+  name: "ZTE Blade L8, Overseas, 32GB, GSM, New, Sealed"
+  category: "Phone"
+  description: "ZTE Blade L8
+for international use
+The ZTE Blade L8
+is typically purchased internationally through global online retailers such as Ubuy and Amazon, or through regional retailers. It is not available for purchase on ZTE's official U.S. website. When purchasing, keep the following points in mind: 
+
+    Carrier compatibility: The international model will work with GSM carriers such as AT&T and T-Mobile. It will not function with CDMA carriers like Verizon and Sprint.
+    Manufacturer warranty: As an internationally shipped product, any manufacturer warranty from ZTE may not be valid in your country.
+    Customs and import taxes: When purchasing from global online stores like Ubuy, you may be responsible for paying import taxes and fees upon the phone's arrival. 
+
+Specifications
+According to GSMArena and other product specification sites, here are the key technical details for the ZTE Blade L8
+: 
+
+    Display: 5.0-inch TFT display with a 480 x 960 pixel resolution.
+    Processor: Quad-core 1.3 GHz Unisoc SC7731E chipset.
+    Memory: 1 GB of RAM and up to 32 GB of internal storage, expandable via a microSD card.
+    Cameras: 8 MP main camera and a 5 MP selfie camera.
+    OS: Android 9.0 Pie (Go edition), a lighter version of Android designed for entry-level devices.
+    Battery: 2000 mAh removable battery.
+    Network: Supports 2G and 3G GSM/HSPA networks.
+    SIM: Dual SIM (Nano-SIM, dual stand-by)"
+  variants:
+    - id: 319
+      color: "Black"
+      price: 151.95
+    # minStock: true/false
+      image: "images/ZTE Blade L8_Overseas_32GB_GSM_New_Sealed.JPG"
