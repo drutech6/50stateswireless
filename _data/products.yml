@@ -1531,7 +1531,7 @@ The BLU G33 Unlocked Smartphone combines performance, durability, and modern."
 
 
 - id: 70
-  name: "iPhone 17 Pro Max, 5G, 1TB, 6.9inch , Unlocked, New , Sealed"
+  name: "iPhone 17 Pro Max, 5G, 256GB, Unlocked, New, Sealed Colors available Blue, Orange"
   category: "Phone"
   description: "Color-Blue  Key Specs
 Screen Size
@@ -1622,4 +1622,4 @@ SKU
       color: "Orange"
       price: 709.95
     # minStock: true/false
-      image: "images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.webp"
+      image: "images/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange_AV1.jpeg"
