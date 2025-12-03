@@ -565,10 +565,10 @@ offers the following features:
     Wireless playtime: A rechargeable battery provides up to 25 hours of listening time.
     Connectivity: Bluetooth 5.0 with a maximum range of up to 10m.
     Microphone: Integrated microphone for hands-free calls.
-    Design: Foldable and lightweight for easy storage and portability. It is also designed for comfort with soft over-ear cushions and an adjustable headband.
+    Design- Foldable and lightweight for easy storage and portability. It is also designed for comfort with soft over-ear cushions and an adjustable headband.
     Noise isolation: The over-ear cushions provide passive noise isolation.
     Charging time: Charges fully in approximately 2 hours.
-    Colors: Jet Black and Titanium White."
+    Colors- Jet Black and Titanium White."
   image: "images/motorola_xt500_headphone_1__69767.jpg"
 
 - id: 37       #ID MUMBER HERE-CHANGE TO AVOID DUPLICATION
@@ -1397,12 +1397,12 @@ Features are subject to change. Some features, applications, and services may no
       color: "Titanium Gray"
       price: 499.95
     # minStock: true/false
-      image: "images/galaxy_ultra_watch_black__83656.jpg"
+      image: "images/Samsung_Galaxy_Watch_Ultra_47mm_titanium_gray.webp"
     - id: 317
       color: "Titanium silver"
       price: 499.95
     # minStock: true/false
-      image: "images/galaxy_ultra_watch_black__83656.jpg"
+      image: "images/Samsung_Galaxy_Watch_Ultra_47mm_titanium_silver.webp"
 
 - id: 65
   name: "T900 Pro Max Smart Watch, New, Sealed Colors Black, white, Pink"
