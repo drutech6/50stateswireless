@@ -1394,7 +1394,7 @@ Features are subject to change. Some features, applications, and services may no
   description: "Available colors are Titan titanium Gray, Titanium silver"
   variants:
     - id: 316
-      color: "Titan titanium Gray"
+      color: "Titanium Gray"
       price: 499.95
     # minStock: true/false
       image: "images/galaxy_ultra_watch_black__83656.jpg"
