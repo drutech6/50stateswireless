@@ -75,16 +75,17 @@ toggleDescription: () => {
 
   if (!description || !button) return;
 
-  // Check if currently truncated
-  const isTruncated = description.style.display === '-webkit-box';
+  // Check current state using data attribute
+  const currentState = description.getAttribute('data-state') || 'truncated';
   
-  if (isTruncated) {
+  if (currentState === 'truncated') {
     // Show full description
     description.style.display = 'block';
     description.style.webkitLineClamp = 'unset';
     description.style.webkitBoxOrient = 'unset';
     description.style.overflow = 'visible';
     description.style.height = 'auto';
+    description.setAttribute('data-state', 'expanded');
     button.textContent = 'Less';
   } else {
     // Show truncated description
@@ -93,6 +94,7 @@ toggleDescription: () => {
     description.style.webkitBoxOrient = 'vertical';
     description.style.overflow = 'hidden';
     description.style.height = 'auto';
+    description.setAttribute('data-state', 'truncated');
     button.textContent = 'More Details';
   }
 },
@@ -401,7 +403,7 @@ container.innerHTML = `
         <div class="space-y-2">
           <!-- Description with toggle functionality -->
           <div class="relative">
-            <p id="product-description" class="text-gray-600 leading-relaxed">
+            <p id="product-description" class="text-gray-600 leading-relaxed" data-state="truncated">
               ${baseProduct.description}
               <br><br>The ${baseProduct.name}, like our other offerings comes with the consistent quality our customers have come to expect, another great product from NewRock Wireless.
             </p>
