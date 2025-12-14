@@ -306,10 +306,11 @@ html = bannerHtml;
                         'Silver': '#D1D5DB',
                         'Black': '#111827',
                         'Purple': '#8B5CF6',
+                        'Teal': '#008080',
                         'White': '#F9FAFB',
                         'Green': '#10B981',
                         'Red': '#EF4444',
-                        'Yellow': '#F59E0B',
+                        'Yellow': '#E8E515',
                         'Orange': '#F97316',
                         'Ocean White': '#E7EFF5',
                         'graphite': '#3B4042',
@@ -317,6 +318,7 @@ html = bannerHtml;
                         'Cosmic Orange': '#FFA500',
                         'Deep Blue': '#00008B',
                         'Lavender': '#E7D3FF',
+                        'Natural Titanium': '#DEECF7',
                         'Titanium Gray': '#8992AD',
                         'Titanium silver': '#C5CCE6',
                         'Titanium Green': '#0D7A18'
@@ -386,15 +388,19 @@ html += `{% include affiliate-banner.html %}`;
                 style="background-color: ${
                   variant.color === 'Blue' ? '#3B82F6' :
                   variant.color === 'Black' ? '#000000' :
+                  variant.color === 'White' ? '#F9FAFB' :
                   variant.color === 'graphite' ? '#3B4042' :
                   variant.color === 'Silver' ? '#D9D2D9' :
                   variant.color === 'Ocean White' ? '#E7EFF5' :
+                  variant.color === 'Yellow' ? '#E8E515' :
                   variant.color === 'Yellow Beige' ? '#ffc566' :
                   variant.color === 'Pink' ? '#D1A1CB' :
+                  variant.color === 'Teal' ? '#008080' :
                   variant.color === 'Cosmic Orange' ? '#FFA500' :
                   variant.color === 'Deep Blue' ? '#00008B' :
                   variant.color === 'Orange' ? '#FFA500' :
                   variant.color === 'Lavender' ? '#E7D3FF' :
+                  variant.color === 'Natural Titanium' ? '#DEECF7' :
                   variant.color === 'Titan titanium Gray' ? '#8992AD' :
                   variant.color === 'Titanium silver' ? '#C5CCE6' :
                   variant.color === 'Titanium Green' ? '#0D7A18' :
