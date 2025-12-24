@@ -2655,3 +2655,306 @@ products:
       10,000mAh built-in rechargeable lithium-ion battery lasts up to 24 hours
       AC power cable included"
     image: "images/jbl_boombox_3__86581.jpg"
+  - id: 84
+    name: "Google Pixel 6A , 128GB, A+Grade, Unlocked "
+    category: Pre-Owned Phones & Tablets
+    description: The Google Pixel 6a is a popular budget-friendly smartphone
+      released in 2022, known for its compact 6.1-inch OLED display, powerful
+      Google Tensor chip, excellent camera quality (12.2MP main), and solid
+      software experience with long-term updates, offering great value for its
+      mid-range price despite a 60Hz screen and plastic back. It boasts IP67
+      water resistance, a durable build with an aluminum frame, and reliable
+      performance for daily tasks and even some gaming, making it a strong
+      choice in 2025, especially refurbished, notes Available Color White
+    variants:
+      - price: 299.95
+        color: White
+        id: 350
+        image: images/google_pixel_6A_black__44154.jpg
+    price: 0
+  - id: 85
+    name: Revvl 6X , 5G, 128GB, A+Grade,T-Mobile Unlocked
+    description: >-
+      REVVL 6X 5G
+
+      128GB
+
+      T-Mobile Unlocked
+
+      6.5 inches
+
+      50MP Main Camera
+
+      Memory Ram: 4GB
+
+      MicroSD Card Slot for expandable Storage (up to 2TB)
+
+      Battery: 450mAh
+
+      Features: Led Flash, HDR, Panorama, android 13, fingerprint sensor, NFC, Bluetooth, headset Jack, Dual band Wi-Fi
+
+      A+ Grade,  Available Color Gray 
+    price: ""
+    variants:
+      - id: 351
+        color: Gray
+        price: 219.95
+        image: images/revvl_6x__98742.jpg
+    category: Pre-Owned Phones & Tablets
+  - id: 86
+    name: ZTE Verve Snap Flip, 2.8in , A+ Grade, Unlocked
+    category: Pre-Owned Phones & Tablets
+    price: ""
+    description: >-
+      The ZTE Verve Snap is a specific model of flip phone. It is a basic 4G LTE
+      device designed for calls and text messages, often offered by carriers
+      like Consumer Cellular. 
+
+      Key Features of the ZTE Verve Snap 
+
+          Design: A classic flip phone design.
+          Display: It has a 2.8-inch internal display and a 1.77-inch external display.
+          Camera: Equipped with a 5 MP camera.
+          Storage & Memory: Features 8GB of internal memory and 1GB of RAM. Storage can often be expanded.
+          Processor: Powered by a 1.3GHz processor.
+          Connectivity: Supports 4G LTE networks and has Bluetooth 5.1. Available Color RED
+    variants:
+      - id: 352
+        color: Red
+        price: 119.95
+        image: images/ZTE-Verve-Snap-Flip-2-8in.jpg
+  - id: 87
+    name: ZTE Verve Connect, 32GB , A+ Grade, Unlocked, Pre-owned Open Box Sale
+    category: Pre-Owned Phones & Tablets
+    description: |-
+      ZTE Verve Connect
+      32GB
+      Ram: 3GB
+      6.1 inch
+      Unlocked
+      8MP rear camera
+      5MP front camera
+      3200mAh battery
+      Rear fingerprint sensor
+      Facial recognition
+      Supports USB-C
+      A+ Grade
+      Open box
+      Available Color Blue
+    variants:
+      - id: 353
+        color: Blue
+        price: 129.95
+        image: images/verve_connect__48949.jpg
+  - id: 88
+    name: Motivate 3 , 32GB , 6.6in, A+ Grade , Unlocked , Pre-owned Open Box  Sale
+    category: Pre-Owned Phones & Tablets
+    description: |-
+      Motivate 3 32GB
+      Unlocked
+      6.6 inches
+      Main Camera: 13MP
+      Front Camera: 8MP
+      Octa Core
+      Internal Memory: 32GB
+      Ram: 3GB
+      Micro SDXC (dedicated Slot)
+      Battery capacity: 3500mAh
+      Bluetooth 5.1
+      A+ Grade, Open box 
+      Available Color is Gray 
+    variants:
+      - id: 354
+        color: Gray
+        price: 209.95
+        image: images/motivate_3___71647.jpg
+  - id: 89
+    name: Alcatel Glimpse, 16GB , A+ Grade, Unlocked, Pre-owned Sale
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The Alcatel Glimpse is a budget-friendly Android Go smartphone featuring a
+      5.5-inch FW+ (480x960) display, MediaTek quad-core processor, 2GB RAM,
+      16GB storage (expandable via microSD), a 5MP rear camera, 5MP front
+      camera, and a 3000mAh battery, running Android 10 Go edition for essential
+      performance with familiar apps. 
+
+      Key Specifications
+
+      Display: 5.5-inch TFT-IPS, 18:9 aspect ratio, 480 x 960 resolution (FW+).
+
+      Processor: MediaTek MT6739WW (Quad-core up to 1.5 GHz).
+
+      Memory: 2GB RAM, 16GB internal storage.
+
+      Expandable Storage: microSD up to 128GB.     Available color Black
+    variants:
+      - color: Black
+        price: 169.95
+        id: 355
+        image: images/alcatel_glimpse_1__95189.jpg
+  - id: 90
+    name: AT&T Maestro 3 ,32GB , 4G, A+ Grade, Unlocked, Pre-owned, Handset Only Sale
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The AT&T Maestro 3 is an affordable, entry-level prepaid smartphone
+      running Android 12, featuring a large 6.5" HD+ screen, dual rear cameras
+      (13MP+5MP wide), a 5MP selfie cam, a 4000mAh battery, 3GB RAM, 32GB
+      storage (expandable), and a fingerprint sensor, designed for basic users
+      wanting a dependable device without premium features, often available free
+      with specific AT&T prepaid plans. 
+
+      Key Features:
+
+          Display: 6.5-inch HD+ with protective glass.
+          Camera: Dual rear (13MP Main + 5MP Wide) & 5MP Front.
+          Battery: 4000 mAh.
+          Security: Fingerprint reader.
+          Storage: 32GB internal, expandable via microSD.  Available Color Green 
+    variants:
+      - color: Green
+        price: 169.95
+        id: 356
+        image: images/att_maestro_3__99827.jpg
+  - id: 91
+    name: Motorola One Ace , 5G , 64GB , 6.7in , A+Grade, Unlocked, Pre-owned Sale
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The Motorola One 5G Ace is a budget-friendly, reliable 5G smartphone known
+      for its large 6.7-inch FHD+ screen, long-lasting 5000mAh battery,
+      dependable Snapdragon 750G processor, and triple rear camera setup (48MP
+      main). Launched around late 2020/early 2021, it offers decent performance,
+      expandable storage, a headphone jack, and water resistance, making it a
+      solid choice for users needing 5G and battery life without high cost,
+      though it's not a flagship device and its software support ended at
+      Android 11.  
+
+      Key Specifications & Features: 
+
+              Display: 6.7-inch FHD+ (2400x1080) LCD.
+              Processor: Qualcomm Snapdragon 750G 5G. Available Color Black 
+    image: ""
+    variants:
+      - id: 357
+        color: Black
+        price: 209.95
+        image: images/Moto_One_5G_Ace__94110.jpg
+  - id: 92
+    name: Samsung Galaxy A23 , 64GB ,5G, A+Grade, Unlocked Pre-owned Sale
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      USB Interface: USB Type-C
+
+
+      USB Version: USB 2.0
+
+      Location Technology: GPS, Glonass, Beidou, Galileo, QZSS
+
+      Earjack: 3.5mm Stereo
+
+      Wi-Fi: 802.11 a/b/g/n/ac 2.4G+5GHz, VHT80
+
+      Wi-Fi Direct: Yes
+
+      Bluetooth Version: Bluetooth v5.1
+
+      NFC: Yes
+
+      PC Sync.: Smart Switch (PC version)
+
+      OS: Android
+
+
+      General Information:
+
+
+      Form Factor: Touchscreen Bar
+
+      Sensors: Accelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Virtual Light Sensing, Virtual Proximity Sensing
+
+      Dimension (HxWxD, mm): 165.4 x 76.9 x 8.4
+
+      Weight: 197 grams  Available Colors Black, White, Blue 
+    variants:
+      - id: 358
+        color: Black
+        price: 259.95
+        image: images/samsung_a23_black__87823.jpg
+      - id: 359
+        color: White
+        price: 259.95
+        image: images/samsung_a23_black__87823.jpg
+      - color: Blue
+        price: 259.95
+        id: 360
+        image: images/samsung_a23_black__87823.jpg
+  - id: 93
+    name: Samsung Galaxy A11, 32GB, Single SIM, A+Grade , Unlocked, Pre-owned Sale
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The Samsung Galaxy A11 is a budget-friendly smartphone featuring a 6.4"
+      HD+ Infinity-O display, Snapdragon 450 processor, 2-4GB RAM, 32/64GB
+      storage (expandable via microSD), a 4000mAh battery with 15W fast
+      charging, a versatile triple rear camera (13MP main, 5MP ultrawide, 2MP
+      depth), an 8MP front camera, and runs Android 10 with One UI. Key features
+      include a rear fingerprint sensor, USB-C, and a 3.5mm jack, making it a
+      solid choice for essential smartphone upgrades.  
+
+      Display & Design
+
+          Screen: 6.4-inch PLS TFT LCD, HD+ (1560x720) Infinity-O display. 
+              Dimensions: Approx. 161.4 x 76.3 x 8.0 mm (6.35 x 3.00 x 0.32 in). 
+              Weight: Around 177g (6.24 oz). 
+              Build: Plastic back, rear-mounted Available Color Black 
+    variants:
+      - id: 361
+        color: Black
+        price: 219.95
+        image: images/galaxy_A11_Black__90211.jpg
+  - id: 94
+    name: Samsung Galaxy A13, 64GB, A+Grade, Unlocked, Pre-owned Sale
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Details  
+
+          Octa-core processor with clock speeds of 2GHz and 1.8GHz for efficient performance.
+          Weighing 195g, this smartphone is lightweight and portable.
+          Remarkable audio playback time of up to 102 hours for extended entertainment.
+          Features a 6.6-inch TFT LCD display with a high-resolution FHD+ resolution of 1080 x 2408 pixels.
+          Boasts a PLS LCD technology screen with a rich color depth of 16M for vivid visuals.
+          A versatile camera setup includes a 50MP primary rear camera and additional 5MP, 2MP, and 2MP cameras.
+          Offers 4GB of RAM paired with 64GB of internal storage, expandable up to 1TB via microSD.
+          Supports dual-SIM functionality with nano-SIM cards and offers 4G LTE connectivity.
+          Equipped with USB Type-C interface, Bluetooth v5.2, NFC, and various location technologies.
+          Powered by a 5000mAh non-removable battery, providing up to 36 hours of 4G LTE Color Available Black
+    variants:
+      - color: Black
+        id: 362
+        price: 229.95
+        image: images/a13_black__66177.jpg
+  - id: 95
+    name: Samsung Galaxy A14, 64GB, A+Grade, Unlocked, Pre-owned Sale
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      This phone is SIM-free and compatible with 4G networks. It supports dual
+      SIM cards, both nano SIMs. The device features a 6.6-inch TFT LCD display
+      with a sharp resolution of 2408 x 1080 (FHD+) pixels, offering a pixel
+      density of 401 pixels per inch. It's a touch screen for easy navigation.
+      In terms of dimensions, it measures H167.7mm x W78mm x D9.1mm and weighs
+      202g.
+
+
+      Camera and Video:
+
+
+      The phone includes a 13MP front camera and a versatile rear camera setup with a 50MP primary camera, a 5MP second rear camera, and a 2MP third rear camera, complemented by an LED flash. It offers camera features like Panorama and HDR, with FHD video capture capability.
+
+
+      Storage and Performance:
+
+
+      It comes with 64GB of internal memory and supports expandable storage up to a massive 1000GB via a microSD card slot, allowing you to store more photos, music, and apps.Powered  Available Color Black
+    variants:
+      - id: 363
+        color: Black
+        price: 239.95
+        image: images/a14_black__08147 (1).jpg
