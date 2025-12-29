@@ -3132,7 +3132,6 @@ products:
       including features like NFC and dual SIM support. Colors Available purple
     category: Phones
     id: 105
-  - id: 106
     variants:
       - id: 379
         color: Orange
