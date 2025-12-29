@@ -2958,3 +2958,232 @@ products:
         color: Black
         price: 239.95
         image: images/a14_black__08147 (1).jpg
+  - id: 96
+    name: Xiaomi Redmi Note 12 Pro , 256GB, 6.7in, Dual SIM, Unlocked, New, Sealed
+    category: Phones
+    price: ""
+    description: The Xiaomi Redmi Note 12 Pro 5G is a popular mid-range smartphone
+      known for delivering premium features at a great value, boasting a smooth
+      120Hz AMOLED display, powerful MediaTek Dimensity 1080 chip, versatile
+      Sony IMX766 camera with OIS, long-lasting 5000mAh battery with 67W fast
+      charging, and Dolby Vision/Atmos support for immersive media, making it a
+      strong all-rounder for most users seeking performance and features without
+      breaking the bank. colors available Gray
+    variants:
+      - id: 366
+        price: 379.95
+        color: Gray
+        image: images/note-12-pro__64347.jpg
+  - id: 97
+    name: Xiaomi Redmi 10, 128GB, 6.4in ,Dual SIM, unlocked,New
+    category: Phones
+    description: The Redmi 10 5G is a budget-friendly Xiaomi smartphone featuring a
+      6.58-inch 90Hz FHD+ display, MediaTek Dimensity 700 chip, 50MP dual rear
+      cameras, and a large 5000mAh battery with 18W charging, offering 5G
+      connectivity for fast data, dual SIM support, and a 3.5mm headphone jack
+      in a design with a side fingerprint sensor, making it a solid entry-level
+      device for everyday use. Colors available Black / white
+    variants:
+      - color: Black
+        id: 367
+        price: 259.95
+        image: images/redmi-note-10__07894.jpg
+      - id: 368
+        color: White
+        price: 259.95
+        image: images/redmi-note-10__07894.jpg
+  - id: 98
+    variants:
+      - id: 369
+        color: Green
+        price: 279.95
+        image: images/redmi_14c_g__01228.jpg
+    name: Xiaomi Redmi , 256GB, 6.4in. Dual SIM Unlocked, New
+    category: Phones
+    description: "The Redmi 14C is an entry-level smartphone featuring a large
+      6.88-inch 720p 120Hz display, MediaTek Helio G81-Ultra processor, up to
+      8GB RAM, 50MP main camera, 13MP selfie camera, and a 5160mAh battery with
+      18W charging, running Android 14 with HyperOS, offering good value for
+      basic use but with some compromises like a budget display
+      resolution.  Colors Green "
+  - id: 99
+    variants:
+      - color: Black
+        price: 289.95
+        id: 370
+        image: images/redmi_13_blue__32847.jpg
+      - color: Blue
+        price: 289.95
+        id: 371
+        image: images/redmi_13_blue__32847.jpg
+    name: " Xiaomi Redmi 13, 256GB, unlocked, New, Sealed"
+    category: Phones
+    description: The Redmi 13 is a budget-friendly smartphone featuring a Helio
+      G91-Ultra processor, a large 6.79" 90Hz FHD+ display, a high-resolution
+      108MP main camera, a 5030mAh battery with 33W charging, and runs Android
+      14 with HyperOS, offering good value with specs like Gorilla Glass
+      protection and IP53 dust resistance, but note it has a single speaker and
+      a macro lens instead of an ultrawide camera. Available Colors Black and
+      Blue
+  - id: 100
+    variants:
+      - id: 372
+        color: Blue
+        price: 249.95
+        image: images/redmi_a5__11503.jpg
+    name: Xiaomi Redmi A5 , 128GB , Unlocked,  New, Sealed
+    category: Phones
+    description: The Redmi A5 is a budget 4G smartphone featuring a large 6.88" HD+
+      120Hz LCD display, a Unisoc T7250 octa-core processor, a 32MP main camera,
+      8MP selfie cam, a big 5200mAh battery with 15W charging, and runs Android
+      15 (Go Edition), offering up to 8GB virtual RAM, expandable storage, a
+      3.5mm jack, and side fingerprint sensor for an affordable price.  Colors
+      available Blue
+  - id: 101
+    variants:
+      - id: 372
+        color: Gray
+        price: 269.95
+        image: images/zte_blade_v70_max__41601.jpg
+    name: ZTE Blade V70 Max, 258GB, 6.9in ,14Ram, Unlocked, New, Sealed
+    category: Phones
+    description: "The ZTE Blade V70 Max is a budget-friendly 4G smartphone featuring
+      a large 6.9-inch HD+ 120Hz display, powered by a Unisoc T606/T7200
+      processor, running Android 15, and boasting a big 6000mAh battery with
+      22.5W charging, alongside a 50MP main rear camera, an 8MP front camera,
+      and up to 8GB RAM with 256GB expandable storage. It focuses on durability
+      (IP54, reinforced frame) and large screen experience, with features like
+      extended RAM and AI camera software. Color Available Gray "
+  - id: 102
+    name: ZTE 35E, 64GB, 6.5in , unlocked, New , Sealed
+    category: Phones
+    description: >+
+      The ZTE Blade A35e is an affordable, entry-level Android smartphone
+      designed for basic daily use, featuring a large 6.52-inch HD+ screen, a
+      long-lasting 5000mAh battery, an 8MP rear camera, 5MP front camera, and
+      expandable storage with a triple SIM slot for simultaneous use of two SIMs
+      and a microSD card. Key features include a 3.5mm headphone jack, USB-C,
+      and often running Android 14, making it a practical choice for calls,
+      messaging, and light apps without frills. 
+
+
+      Key Specifications:
+
+          Display: 6.52-inch HD+ (1280x576)
+          Battery: 5000mAh
+          Cameras: 8MP rear, 5MP front
+          Storage: 64GB internal, expandable via microSD   Color Available Gray 
+
+       One attachment  •  Scanned by Gmail
+      	
+    variants:
+      - id: 373
+        price: 219.95
+        color: Gray
+        image: images/zte_blade_a35e_gray__39574.jpg
+  - id: 103
+    variants:
+      - id: 374
+        color: Green
+        price: 219.95
+        image: images/zte_a35_c__53576.jpg
+    name: ZTE Blade 35, 64GB , 6.7, Dual SIM, Unlocked, New , Sealed
+    category: Phones
+    description: "The ZTE Blade A35 is a budget-friendly Android smartphone
+      featuring a large 6.75-inch 90Hz display, a Unisoc octa-core chip, 4GB
+      RAM, 64GB storage (expandable), and a big 5000mAh battery, running Android
+      14 (Go Edition) for light daily use, social media, and basic tasks, making
+      it a solid, affordable choice for first-time users or as a backup phone.
+      Color Available green "
+  - id: 104
+    name: ZTE Blade. V60 , 256GB , 4G, Dual SIM, Unlocked, New, Sealed
+    description: "The ZTE Blade V60 is an entry-level Android smartphone featuring a
+      large 6.6-inch HD+ screen with a 90Hz refresh rate, a powerful 5000mAh
+      battery with fast charging, a 50MP main camera, and often comes with
+      significant storage (like 256GB) and dynamic RAM (up to 16GB) for smooth
+      multitasking, running on Android 13 with ZTE's MyOS and a budget-friendly
+      Unisoc processor, offering features like a headphone jack and USB-C.
+      Colors Available  Violet, Blue, Gold "
+    category: Phones
+    variants:
+      - id: 375
+        color: Violet
+        price: 269.95
+        image: images/zte_blade_v60_g__86680-1-.jpg
+      - id: 376
+        color: Blue
+        price: 269.95
+        image: images/zte_blade_v60_g__86680-1-.jpg
+      - id: 377
+        color: Gold
+        price: 269.95
+        image: images/zte_blade_v60_g__86680-1-.jpg
+  - name: "ZTE Blade V50, 256GB,  6.6in , 4G, , unlocked, New, Sealed "
+    variants:
+      - id: 378
+        color: Purple
+        image: images/zte_blade_v50__73519-1-.jpg
+        price: 259.95
+    description: The ZTE Blade V50 with 4GB RAM and 256GB storage is a
+      budget-friendly smartphone featuring a large 6.6-inch FHD+ display, a 50MP
+      main camera, a powerful Unisoc T606 processor, a long-lasting 5000mAh
+      battery with 22.5W fast charging, and Android OS, offering great value
+      with ample storage for everyday use, social media, and light gaming,
+      including features like NFC and dual SIM support. Colors Available purple
+    category: Phones
+    id: 105
+  - id: 106
+    variants:
+      - id: 379
+        color: Orange
+        price: 219.95
+        image: images/zte_blade_a55_black__86362.jpg
+      - id: 380
+        color: Black
+        price: 219.95
+        image: images/zte_blade_a55_black__86362.jpg
+      - id: 381
+        color: Blue
+        price: 219.95
+        image: images/zte_blade_a55_black__86362.jpg
+    name: " ZTE Blade A55, 128GB, 4G, 6.7in HD, Dual SIM, unlocked, New, Sealed"
+    category: Phones
+    description: "The ZTE Blade A55 is an affordable Android smartphone released in
+      2024, featuring a large 6.75-inch 90Hz HD+ display, a 13MP dual rear
+      camera, an 8MP selfie camera, a large 5000mAh battery with 10W charging,
+      and Unisoc octa-core processor, running Android 14 (Go Edition) for basic
+      tasks and everyday use, with dynamic RAM expansion technology and side
+      fingerprint unlock. It's known for offering good value, especially for
+      social media, light gaming, and general use, but may struggle with
+      intensive gaming or high-end camera performance.  Colors Available Orange,
+      Black Blue "
+  - id: 107
+    variants:
+      - id: 382
+        color: Black
+        price: 369.95
+        image: images/google_pixel_7_white__62439.jpg
+      - id: 383
+        color: White
+        price: 369.95
+        image: images/google_pixel_7_white__62439.jpg
+      - id: 384
+        color: Lime green
+        price: 369.95
+        image: images/google_pixel_7_white__62439.jpg
+    name: Google Pixel 7,128GB, unlocked , New, Sealed
+    category: Phones
+    description: >-
+      The Google Pixel 7, released in 2022, is a capable smartphone featuring
+      Google's Tensor G2 chip for strong performance, a 6.3-inch OLED display,
+      advanced AI-driven camera features like Magic Eraser and Photo Unblur, and
+      a clean stock Android experience with timely updates, though its 20W
+      charging and older Tensor G2 can show limitations in 2025 compared to
+      newer models, making it a budget-friendly choice for those wanting great
+      photos and pure Android without the latest flagship cost. 
+
+      Key Features & Specs
+
+          Processor: Google Tensor G2
+          Display: 6.3-inch OLED, 1080x2400 resolution, 90Hz refresh rate
+          Cameras: 50MP main rear camera, 10.8MP front camera, with AI features Color Available Black, White, Lime green
