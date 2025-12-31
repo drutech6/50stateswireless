@@ -2462,10 +2462,9 @@ products:
       solid aluminum handle with silicone grips IP67-rated waterproof down to 3 feet for up to 30 minutes USB charging port for portable devices stereo minijack auxiliary input 10,000mAh built-in rechargeable lithium-ion battery lasts up to 24 hours AC power cable included
     image: images/jbl_boombox_3__86581.jpg
   - id: 84
-    name: Google Pixel 6A , 128GB, A+Grade, Unlocked
+    name: "Google Pixel 6A , 128GB, A+Grade, Unlocked "
     category: Pre-Owned Phones & Tablets
-    description:  >-
-      The Google Pixel 6a is a popular budget-friendly smartphone
+    description: The Google Pixel 6a is a popular budget-friendly smartphone
       released in 2022, known for its compact 6.1-inch OLED display, powerful
       Google Tensor chip, excellent camera quality (12.2MP main), and solid
       software experience with long-term updates, offering great value for its
@@ -2474,9 +2473,9 @@ products:
       performance for daily tasks and even some gaming, making it a strong
       choice in 2025, especially refurbished, notes Available Color White
     variants:
-      - id: 350
+      - price: 299.95
         color: White
-        price: 299.95
+        id: 350
         image: images/google_pixel_6A_black__44154.jpg
     price: 0
   - id: 85
