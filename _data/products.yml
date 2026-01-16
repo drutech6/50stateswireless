@@ -3537,3 +3537,551 @@ products:
         color: Black
         price: 629.95
         image: images/iphone_16e_black__55227.jpg
+  - id: 118
+    name: Apple iPhone 15 Pro Max, 512GB, E-SIM, Unlocked, A+ Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      The iPhone 15 Pro Max boasts a 6.7-inch ProMotion Super Retina XDR display
+      (120Hz), A17 Pro chip, titanium design, and a versatile camera system with
+      advanced features like ProRes video, all powered by iOS 17/18 and
+      featuring USB-C connectivity; key upgrades include the Action Button,
+      brighter display, and enhanced camera zoom, making it a premium powerhouse
+      for demanding users.  
+
+      Key Specifications & Features:
+
+          Design: Aerospace-grade titanium frame, Ceramic Shield front, textured matte glass back, IP68 water resistance. 
+          Display: 6.7-inch All-Screen OLED, ProMotion (up to 120Hz), Always-On, Dynamic Island, up to 2000 nits peak outdoor brightness. 
+              Performance: A17 Pro chip (3nm), fast CPU/GPU for gaming and professional tasks, 8GB RAM. 
+              Cameras: Advanced Pro Camera System: 48MP Main, 12MP Ultra Wide, 12MP Telephoto (5x optical zoom/120mm equivalent). 
+              Charging/Port: USB-C port (USB 3 speeds), MagSafe wireless charging. 
+              Action Button: Customizable button replacing the mute switch. 
+              Storage: Options for 256GB, 512GB, 1TB. 
+              Operating System: Launched with iOS 17, supports latest iOS (currently iOS 18). 
+
+      Key Upgrades Over Previous Models:
+
+              Titanium Build: Lighter and stronger than stainless steel.
+              A17 Pro Chip: Significant performance leap, especially for graphics.
+              5x Telephoto Zoom: Longer optical zoom for telephoto shots.
+              Action Button: Quick access to camera, flashlight, or other functions. 
+
+      Considerations:
+
+              Software: Early models experienced some bugs like overheating and battery drain, often addressed by iOS updates. 
+              Price: Premium pricing, with newer models sometimes available refurbished.
+    variants:
+      - id: 414
+        color: White
+        price: 969.95
+        image: images/712TY0NCErL._AC_UF894,1000_QL80_FMwebp_.webp
+      - id: 415
+        color: Blue
+        price: 969.95
+        image: images/61+K3MDUXkL._AC_UF894,1000_QL80_FMwebp_.webp
+      - id: 416
+        color: Natural
+        price: 969.95
+        image: images/616mZZm8-7L._AC_UF894,1000_QL80_FMwebp_.webp
+  - id: 119
+    name: Apple iPhone 8 Plus , 64GB, Unlocked, A- Grade, Physical SIM, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >+
+      Handset Only. Available Colors Red, Black, Silver.    The iPhone 8 Plus
+      features a 5.5-inch Retina HD display, Apple's A11 Bionic chip with Neural
+      Engine, dual 12MP wide & telephoto rear cameras with 2x optical zoom, and
+      a 7MP front camera, all housed in a glass-backed design with IP67 water
+      resistance, Touch ID, and wireless charging, running on iOS (upgradable to
+      later versions) with 3GB RAM
+
+      .
+       
+      Key Specifications:
+
+          Display: 5.5-inch (diagonal) Retina HD (1920x1080) IPS LCD, True Tone, 3D Touch.
+          Processor: A11 Bionic chip with Neural Engine.
+          RAM: 3GB.
+          Rear Cameras: Dual 12MP (Wide ƒ/1.8 & Telephoto ƒ/2.8) with Optical Image Stabilization, Portrait Mode, 2x optical zoom.
+          Front Camera: 7MP FaceTime HD camera.
+          Storage: 64GB, 128GB, 256GB options, no card slot.
+          Battery: ~2691 mAh, supports wireless charging.
+          Security: Touch ID (fingerprint sensor).
+          Durability: IP67 water and dust resistant (up to 1 meter for 30 mins).
+          Connectivity: Lightning port, Wi-Fi, Bluetooth, no headphone jack, no 5G.
+          Dimensions: 6.24" H x 3.07" W x 0.30" D, 202g.
+          Operating System: Launched with iOS 11, upgradable. 
+
+    variants:
+      - id: 417
+        color: Red
+        price: 249.95
+        image: images/Restored-iPhone-8-Plus-64GB-Red-Boost-Mobile-Refurbished_6121196d-950c-4d68-8bda-6e86c0ca7e78_1.b12506390df0ebb4abc39c45e3e0589b.jpeg
+      - id: 418
+        color: Black
+        price: 249.95
+        image: images/iphone_8_plus_b__88206.jpg
+      - id: 419
+        color: Silver
+        price: 249.95
+        image: images/8psvr_017819ac-8059-44d4-97e9-a303a61c5e4e.jpg
+  - id: 120
+    name: Apple iPhone 8. 64GB , Unlocked, Physical SIM, A- Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Handset Only, Available Colors Black and Silver. The iPhone 8 features a
+      4.7-inch Retina HD display, A11 Bionic chip, a single 12MP wide rear
+      camera with OIS, and a 7MP front camera, supporting 4K video and Qi
+      wireless charging, IP67 water resistance, Touch ID, and runs iOS. Key
+      specs include 2GB RAM, storage options up to 256GB, and a 1821mAh battery,
+      with no 5G support. 
+
+      Display & Design
+
+          Screen: 4.7-inch (diagonal) Retina HD LCD, 1334x750 pixels (326 ppi).
+          Features: True Tone, Wide Color (P3), 3D Touch, ~625 nits max brightness.
+          Durability: IP67 water/dust resistant, fingerprint-resistant oleophobic coating.
+          Dimensions: 5.45" H x 2.65" W x 0.29" D; 148g. 
+
+      Performance & Storage
+
+          Chip: A11 Bionic with Neural Engine.
+          RAM: 2GB.
+          Storage: 64GB, 128GB, 256GB (no card slot). 
+
+      Cameras
+
+          Rear: Single 12MP Wide (ƒ/1.8), Optical Image Stabilization (OIS), up to 5x digital zoom, True Tone flash.
+          Front: 7MP FaceTime HD camera.
+          Video: 4K at 24/30/60 fps, 1080p HD. 
+
+      Battery & Charging 
+
+          Battery: Built-in rechargeable lithium-ion (1821mAh).
+          Charging: Wireless (Qi-certified), Fast-charge capable (50% in 30 mins with 18W+ adapter). 
+
+      Connectivity & Security
+
+          Connectivity: 4G LTE, Wi-Fi (802.11ac), Bluetooth 5.0, NFC.
+          Security: Touch ID (fingerprint sensor). 
+
+      Operating System
+          Launched with iOS 11, upgradable to newer versions (e.g., iOS 16). 
+    variants:
+      - id: 420
+        color: Black
+        price: 219.95
+        image: images/iphone-8-black__58079.jpg
+      - id: 421
+        color: Silver
+        price: 219.95
+        image: images/8psvr_017819ac-8059-44d4-97e9-a303a61c5e4e.jpg
+  - id: 121
+    name: Apple iPhone SE 2020 ,128GB, Physical SIM, Unlocked, A- Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Handset Only, Available Colors Black and White.    The iPhone SE (2020)
+      packed flagship power into an iPhone 8 body, featuring the A13 Bionic
+      chip, a 4.7-inch Retina HD display, a 12MP Wide rear camera, and Touch ID
+      in the Home button, with storage options up to 256GB. It offered IP67
+      water resistance and wireless charging, running iOS. Key specs include 3GB
+      RAM, stereo speakers, and a 7MP front camera, with no headphone jack,
+      making it a compact device with powerful performance for its time
+
+      .
+       
+      Display
+
+          Type: 4.7-inch (diagonal) Retina HD LCD
+          Resolution: 1334x750 pixels (326 ppi)
+          Features: True Tone, Wide Color (P3), Haptic Touch, 625 nits max brightness 
+
+      Performance
+
+          Chip: A13 Bionic chip with Third-generation Neural Engine
+          RAM: 3GB
+          Storage: 64GB, 128GB, 256GB 
+
+      Cameras
+
+          Rear: 12MP Wide (ƒ/1.8 aperture), Digital zoom up to 5x, Portrait mode
+          Front: 7MP (ƒ/2.2 aperture)
+          Video: 4K video recording up to 60 fps 
+
+      Design & Durability 
+
+          Dimensions: 138.4mm x 67.3mm x 7.3mm (5.45 x 2.65 x 0.29 in)
+          Weight: 148 grams (5.22 oz)
+          Water Resistance: IP67 (up to 1 meter for 30 mins)
+          Authentication: Touch ID (fingerprint sensor in Home button) 
+
+      Battery & Charging 
+
+          Battery: Built-in rechargeable lithium-ion
+          Charging: Wireless charging supported, fast-charge capable 
+
+      Connectivity & Audio 
+
+          SIM: Nano-SIM + eSIM
+          Audio: Stereo speakers, no 3.5mm headphone jack
+          Wireless: Wi-Fi 6, Bluetooth 5.0
+    variants:
+      - id: 422
+        color: Black
+        price: 229.95
+        image: images/apple-iphone-se-2-fully-unlockediphse2-64bk-ap60-252368.jpg
+      - id: 423
+        color: White
+        price: 229.95
+        image: images/apple-iphone-se-2-fully-unlockediphse2-64wh-ap60-740364.jpg
+  - id: 122
+    name: Apple iPhone XR,128GB, Unlocked, Physical SIM, A-Grade , Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Handset Only, Available Colors Black, Blue, Coral, Yellow, Red,
+      White.    The iPhone XR, released in 2018, was a popular, more affordable
+      version of the iPhone X, featuring an all-screen design with a 6.1-inch
+      LCD (Liquid Retina) display, the A12 Bionic chip, Face ID, and a single
+      12MP wide rear camera, notable for its diverse color options and good
+      battery life. While lacking some features of the higher-end XS (like OLED
+      and a second camera lens), it offered solid performance and became a
+      bestseller, still receiving iOS updates in 2025 but with a design showing
+      its age compared to newer models.  
+
+      Key Features:
+
+              Display: 6.1-inch Liquid Retina HD (LCD) with a notch and larger bezels.
+              Processor: A12 Bionic chip with Neural Engine.
+              Camera: Single 12MP Wide rear camera (ƒ/1.8), Portrait Mode with advanced bokeh, 4K video.
+              Security: Face ID.
+              Design: Aluminum frame, glossy glass back, available in White, Black, Blue, Yellow, Coral, and (Product)Red.
+              Durability: IP67 splash, water, and dust resistant.
+              Charging: Supports wireless charging. 
+
+      Performance & Updates (as of 2025):
+
+              Received the latest iOS 18, running most apps smoothly.
+              Still functional as a daily driver or backup phone.
+              Expected to continue receiving security updates, though major iOS support may end soon. 
+    variants:
+      - id: 424
+        color: Black
+        price: 299.95
+        image: images/s-l1600_17_ed0b6f34-a513-4103-9187-11e71504e425.jpg
+      - id: 425
+        color: Blue
+        price: 299.95
+        image: images/BLU-image-0.jpeg
+      - id: 426
+        color: Coral
+        price: 299.95
+        image: images/COR-image-0.jpeg
+      - id: 427
+        color: Yellow
+        price: 299.95
+        image: images/apple-iphone-xr-3357600.jpg
+      - id: 428
+        color: Red
+        price: 299.95
+        image: images/7c3944f8-b539-458f-8506-b914b595b19d_1.6dbc3b1fa1ff5260e0af2a2b0678b7fe.jpeg
+      - id: 429
+        color: White
+        price: 299.95
+        image: images/WHI-image-0.jpeg
+  - id: 123
+    name: Apple iPhone 11, 64GB, Physical SIM, Unlocked, A+ Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    price: ""
+    description: >-
+      Available Colors Black, Red, White.   The iPhone 11 features a 6.1-inch
+      Liquid Retina HD display, the A13 Bionic chip, and a dual 12MP Wide/Ultra
+      Wide rear camera system with Night Mode, plus a 12MP front camera,
+      offering long battery life and water resistance with Face ID for security,
+      running iOS. It supports Gigabit-class LTE, Wi-Fi 6, and Bluetooth 5.0,
+      with storage options up to 256GB, and includes features like Spatial Audio
+      and Cinematic Mode for video. 
+
+      Display & Design
+
+          Screen: 6.1-inch Liquid Retina HD (IPS LCD)
+          Resolution: 1792x828 pixels (326 ppi)
+          Brightness: 625 nits max (typical)
+          Durability: IP68 water/dust resistant (max 2m for 30 min)
+          Weight: 194g (6.84 oz) 
+
+      Performance
+
+          Chip: A13 Bionic (6-core CPU, 4-core GPU, 8-core Neural Engine)
+          RAM: 4GB
+          Storage: 64GB, 128GB, 256GB options 
+
+      Cameras
+
+          Rear: Dual 12MP (Wide ƒ/1.8 & Ultra Wide ƒ/2.4, 120° FoV) with Night Mode, Portrait Mode
+          Front: 12MP TrueDepth Camera
+          Video: 4K video recording up to 60 fps, Cinematic Stabilization 
+
+      Battery & Charging 
+
+          Battery Life: Up to 17 hrs video playback
+          Charging: Fast-charge capable, supports wireless charging 
+
+      Connectivity & Security
+
+          Cellular: Gigabit-class LTE
+          Wireless: Wi-Fi 6 (802.11ax), Bluetooth 5.0
+          Security: Face ID 
+
+      Operating System
+          OS: Launched with iOS 13 Version 
+    variants:
+      - id: 430
+        price: 389.95
+        color: Black
+        image: images/iphone_11_black__72095.jpg
+      - id: 431
+        color: Red
+        price: 389.95
+        image: images/apple-iphone-11-7268295.jpg
+      - id: 432
+        color: White
+        price: 389.95
+        image: images/WHI-image-0.jpeg
+  - id: 124
+    name: Apple 11 Pro Max , 256GB, Physical SIM, Unlocked, A- Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Details Handset Only, Available Colors Space Gray , Midnight Green.  The
+      iPhone 11 Pro Max features a large 6.5-inch Super Retina XDR (OLED)
+      display, powered by the A13 Bionic chip, with a triple 12MP camera system
+      (Ultra Wide, Wide, Telephoto) and 4GB RAM, offering storage up to 512GB,
+      IP68 water resistance, Face ID, wireless charging, and support for Gigabit
+      LTE (no 5G), running iOS. 
+
+      Display:
+
+          Type: 6.5-inch All-Screen OLED Super Retina XDR Display.
+          Resolution: 2688x1242 pixels (458 ppi).
+          Features: HDR, Wide Color (P3), True Tone, Haptic Touch, 800 nits max brightness (typical). 
+
+      Performance:
+
+          Chip: A13 Bionic chip with 6-core CPU.
+          RAM: 4GB.
+          Storage: 64GB, 256GB, 512GB options. 
+
+      Cameras (Rear):
+
+          Triple 12MP System: Ultra Wide, Wide, and Telephoto lenses.
+          Video: Up to 4K at 60 fps, slow-motion video capture. 
+
+      Camera (Front):
+
+          12MP TrueDepth Camera. 
+
+      Battery & Charging:
+
+          Capacity: Around 3969mAh.
+          Support: Wireless Qi charging and fast charging. 
+
+      Connectivity & Durability:
+
+          Network: Gigabit LTE (not 5G).
+          Wi-Fi: Wi-Fi 6.
+          Bluetooth: 5.0.
+          Water Resistance: IP68 (up to 4 meters for 30 mins). 
+
+      Other Features:
+
+          Security: Face ID.
+          Materials: Stainless steel frame, textured matte glass back.
+          OS: Shipped with iOS 13, upgradable. 
+    variants:
+      - id: 433
+        color: Gray
+        price: 399.95
+        image: images/apple-iphone-11-pro-max-fully-unlocked-space-gray-64-gbiph11mx-64sg-cp60-5183417.jpg
+      - id: 434
+        color: Green
+        price: 399.95
+        image: images/1981ca84-370d-4ab8-a153-159cef2ffd52-1_400b4e8c-ac07-4fc6-8fee-42372441e83f.jpg
+  - id: 125
+    name: Apple 11 Pro Max , 512GB, Physical SIM, Unlocked, A- Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Handset Only, Available Colors Space Gray , Midnight Green.  The iPhone 11
+      Pro Max features a large 6.5-inch Super Retina XDR (OLED) display, powered
+      by the A13 Bionic chip, with a triple 12MP camera system (Ultra Wide,
+      Wide, Telephoto) and 4GB RAM, offering storage up to 512GB, IP68 water
+      resistance, Face ID, wireless charging, and support for Gigabit LTE (no
+      5G), running iOaS. 
+
+      Display:
+
+          Type: 6.5-inch All-Screen OLED Super Retina XDR Display.
+          Resolution: 2688x1242 pixels (458 ppi).
+          Features: HDR, Wide Color (P3), True Tone, Haptic Touch, 800 nits max brightness (typical). 
+
+      Performance:
+
+          Chip: A13 Bionic chip with 6-core CPU.
+          RAM: 4GB.
+          Storage: 64GB, 256GB, 512GB options. 
+
+      Cameras (Rear):
+
+          Triple 12MP System: Ultra Wide, Wide, and Telephoto lenses.
+          Video: Up to 4K at 60 fps, slow-motion video capture. 
+
+      Camera (Front):
+
+          12MP TrueDepth Camera. 
+
+      Battery & Charging:
+
+          Capacity: Around 3969mAh.
+          Support: Wireless Qi charging and fast charging. 
+
+      Connectivity & Durability:
+
+          Network: Gigabit LTE (not 5G).
+          Wi-Fi: Wi-Fi 6.
+          Bluetooth: 5.0.
+          Water Resistance: IP68 (up to 4 meters for 30 mins). 
+
+      Other Features:
+
+          Security: Face ID.
+          Materials: Stainless steel frame, textured matte glass back.
+          OS: Shipped with iOS 13, upgradable. 
+    variants:
+      - id: 435
+        color: Gray
+        price: 419.95
+        image: images/apple-iphone-11-pro-max-fully-unlocked-space-gray-64-gbiph11mx-64sg-cp60-5183417.jpg
+      - id: 436
+        color: Green
+        price: 419.95
+        image: images/1981ca84-370d-4ab8-a153-159cef2ffd52-1_400b4e8c-ac07-4fc6-8fee-42372441e83f.jpg
+  - id: 126
+    name: Apple iPhone 12 Pro Max, 256GB, Physical SIM, Unlocked, A- Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    price: ""
+    description: >-
+      Handset Only, Available Colors Pacific Blue, Graphite, Silver, Gold.   The
+      iPhone 12 Pro Max features a large 6.7-inch Super Retina XDR (OLED)
+      display, the A14 Bionic chip, a Pro 12MP Triple Camera System (Ultra Wide,
+      Wide, Telephoto) with LiDAR, and a durable stainless steel design with
+      Ceramic Shield. Key specs include 6GB RAM, 5G connectivity, MagSafe,
+      128/256/512GB storage, and support for up to iOS 26.2, offering strong
+      performance and camera capabilities for its time, though lacking a high
+      refresh rate.  
+
+      Display & Design
+
+              Screen: 6.7-inch Super Retina XDR (OLED)
+              Resolution: 2778x1284 pixels (458 ppi)
+              Brightness: 800 nits typical, 1200 nits (HDR)
+              Protection: Ceramic Shield front, textured matte glass back, stainless steel frame
+              Weight: 8.03 ounces (228 grams) 
+
+      Performance
+
+              Processor: Apple A14 Bionic chip
+              RAM: 6GB
+              Storage: 128GB, 256GB, 512GB
+              Connectivity: 5G, Wi-Fi 6, Bluetooth 5.0, NFC 
+
+      Cameras
+
+              Rear Pro System: 12MP Ultra Wide (ƒ/2.4), 12MP Wide (ƒ/1.6), 12MP Telephoto (ƒ/2.2) with 2.5x optical zoom 
+              Features: LiDAR Scanner, Night Mode, Deep Fusion, Smart HDR 3, Apple ProRAW, Sensor-shift OIS (Wide) 
+              Front Camera: 12MP TrueDepth (ƒ/2.2) with Portrait Mode 
+
+      Battery & Charging
+
+              Battery: ~3,687 mAh
+              Charging: MagSafe wireless charging (up to 15W), fast charging (20W+ via Lightning) 
+
+      Other Features
+
+              Face ID: Facial recognition
+              OS: Launched with iOS 14, upgradable
+              Water Resistance: IP68 (max depth of 6 meters up to 30 mins) 
+    variants:
+      - price: 579.95
+        color: Blue
+        id: 437
+        image: images/PAC-image-0.jpeg
+      - color: Graphite
+        id: 438
+        price: 579.95
+        image: images/GRA-image-0.jpeg
+      - color: Silver
+        id: 439
+        price: 579.95
+        image: images/apple-iphone-12-pro-3250140.jpg
+      - id: 440
+        color: Gold
+        price: 579.95
+        image: images/apple-iphone-12-pro-4595755.jpg
+  - id: 127
+    name: Apple iPhone 12 Pro Max, 512GB, Physical SIM, Unlocked, A- Grade, Pre-owned
+    category: Pre-Owned Phones & Tablets
+    description: >-
+      Handset Only, Available Colors Pacific Blue, Graphite, Silver, Gold.   The
+      iPhone 12 Pro Max features a large 6.7-inch Super Retina XDR (OLED)
+      display, the A14 Bionic chip, a Pro 12MP Triple Camera System (Ultra Wide,
+      Wide, Telephoto) with LiDAR, and a durable stainless steel design with
+      Ceramic Shield. Key specs include 6GB RAM, 5G connectivity, MagSafe,
+      128/256/512GB storage, and support for up to iOS 26.2, offering strong
+      performance and camera capabilities for its time, though lacking a high
+      refresh rate.  
+
+      Display & Design
+
+              Screen: 6.7-inch Super Retina XDR (OLED)
+              Resolution: 2778x1284 pixels (458 ppi)
+              Brightness: 800 nits typical, 1200 nits (HDR)
+              Protection: Ceramic Shield front, textured matte glass back, stainless steel frame
+              Weight: 8.03 ounces (228 grams) 
+
+      Performance
+
+              Processor: Apple A14 Bionic chip
+              RAM: 6GB
+              Storage: 128GB, 256GB, 512GB
+              Connectivity: 5G, Wi-Fi 6, Bluetooth 5.0, NFC 
+
+      Cameras
+
+              Rear Pro System: 12MP Ultra Wide (ƒ/2.4), 12MP Wide (ƒ/1.6), 12MP Telephoto (ƒ/2.2) with 2.5x optical zoom 
+              Features: LiDAR Scanner, Night Mode, Deep Fusion, Smart HDR 3, Apple ProRAW, Sensor-shift OIS (Wide) 
+              Front Camera: 12MP TrueDepth (ƒ/2.2) with Portrait Mode 
+
+      Battery & Charging
+
+              Battery: ~3,687 mAh
+              Charging: MagSafe wireless charging (up to 15W), fast charging (20W+ via Lightning) 
+
+      Other Features
+
+              Face ID: Facial recognition
+              OS: Launched with iOS 14, upgradable
+              Water Resistance: IP68 (max depth of 6 meters up to 30 mins) 
+    variants:
+      - id: 441
+        color: Blue
+        price: 609.95
+        image: images/PAC-image-0.jpeg
+      - id: 442
+        color: Graphite
+        price: 609.95
+        image: images/GRA-image-0.jpeg
+      - id: 443
+        color: Silver
+        price: 609.95
+        image: images/apple-iphone-12-pro-3250140.jpg
+      - id: 443
+        color: Gold
+        price: 609.95
+        image: images/apple-iphone-12-pro-4595755.jpg
