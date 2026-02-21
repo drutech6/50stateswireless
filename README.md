@@ -1,1 +1,1 @@
-# 50stateswirelessusa
+# 50stateswireless
